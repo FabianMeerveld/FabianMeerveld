@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @FabianMeerveld
-- 👀 I’m interested in food
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on idk
+- 👀 I’m interested firefighters and technical computer science
+- 🌱 I’m currently learning technical computer science, business it and management and artificial intelligence
 - 📫 How to reach me discord = "FabianM"
 
-<!---
-FabianMeerveld/FabianMeerveld is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->

@@ -23,6 +23,7 @@ Dingen die ik graag nog zou willen doen:
 - HAVO diploma gehaald
 - Begonnen met opleiding HBO ict
 - Rijbewijs B gehaald
+- Na 6 jaar gestopt bij de jeugdbrandweer Amerongen
 - Landelijk vrijwilliger geworden bij scouting Nederland (HIT helpdesk)
 - Begonnen met werken bij de PLUS suppermarkt in Leersum, eerst als vakkenvuller, daarna als magazijnman en daarna als kassamedewerker
 ## (2024-19)

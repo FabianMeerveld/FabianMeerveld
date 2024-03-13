@@ -11,7 +11,10 @@
 ## over 45 jaar (2068-63)
 - Met pensioen
 
-
+# Bucketlist
+Dingen die ik graag nog zou willen doen
+[ ] Koningspad in Scandinavië lopen
+[ ] Alle hoofdsteden van europa bezoeken | Done: Amsterdam, Parijs
 
 # Mijlpalen per jaar
 ## (2023-18)

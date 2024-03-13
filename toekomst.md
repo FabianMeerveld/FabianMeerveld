@@ -12,9 +12,11 @@
 - Met pensioen
 
 # Bucketlist
-Dingen die ik graag nog zou willen doen
-[ ] Koningspad in Scandinavië lopen
-[ ] Alle hoofdsteden van europa bezoeken | Done: Amsterdam, Parijs
+Dingen die ik graag nog zou willen doen:
+
+- [ ] Koningspad in Scandinavië lopen
+- [ ] Rondreis door de verenigingde staten maken (Las vegas, New york, Los angeles)
+- [ ] Alle hoofdsteden van europa bezoeken | Done: Amsterdam, Parijs
 
 # Mijlpalen per jaar
 ## (2023-18)
